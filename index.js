@@ -8,25 +8,25 @@ import { fibonacciNonOptimized } from "./recursion.js";
 import { fibonacciOptimized } from "./recursion.js";
 
 
-// console.log("------   -------");
+console.log("------   -------");
 
-// console.log("----factorial----")
-// console.log(factorial(5));
+console.log("----factorial----")
+console.log(factorial(5));
 
-// console.log("----string reverse----")
-// console.log(stringReverse("ordin project"));
+console.log("----string reverse----")
+console.log(stringReverse("ordin project"));
 
-// console.log("----palindrome----")
-// console.log(palindrome('kayak'));
-// console.log(palindrome('kayaky'));
+console.log("----palindrome----")
+console.log(palindrome('kayak'));
+console.log(palindrome('kayaky'));
 
-// console.log("------decimal to binary---------");
-// console.log(decimalToBinary(10));
+console.log("------decimal to binary---------");
+console.log(decimalToBinary(10));
 
-// console.log("------  binary Search -------");
-// const sortedArray = [1, 3, 5, 7, 9, 11, 13, 15];
-// const target = 7;
-// console.log(binarySearch(sortedArray,target));
+console.log("------  binary Search -------");
+const sortedArray = [1, 3, 5, 7, 9, 11, 13, 15];
+const target = 7;
+console.log(binarySearch(sortedArray,target));
 
 
 console.log("------ Fibonacci non optimized  -------");
